@@ -28,7 +28,7 @@ Please add the configuration values that work for your DAC to the table below.
 | [Hifiberry AMP2][14]   | hifiberry-dacplus                     | Yes
 | [Hifiberry DAC+ Light][15] | hifiberry-dac                     | Yes
 | [Hifiberry DAC Zero][16]   | hifiberry-dac                     | Yes
-| [IQaudIO DigiAMP+][17]|| iqaudio-dacplus, unmute_amp       | Yes
+| [IQaudIO DigiAMP+][17] | iqaudio-dacplus, unmute_amp           | Yes
 
 [1]: http://www.suptronics.com/Xseries/x400.html
 [2]: https://shop.pimoroni.com/products/phat-dac
